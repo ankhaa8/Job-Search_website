@@ -1,2 +1,3 @@
-# Job-Search
-WAP - Job Search Web App
+# Job Search
+WAP - Job Search
+
